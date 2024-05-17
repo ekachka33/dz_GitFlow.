@@ -1,5 +1,6 @@
 def change_letters(input_string):
     """
+
        Принимает строку и возвращает ее в верхнем регистре.
 
        :param input_string: Входная строка.
@@ -16,4 +17,5 @@ def uppercase_first_letters(input_string):
     :return: Строка с заглавными первыми буквами каждого слова
     """
     return input_string.title()
+
 
